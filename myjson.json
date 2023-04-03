@@ -1,0 +1,9 @@
+{
+
+    "name": "Ahamd",
+    "class": "12th",
+    "Marks": "970",
+    "isAdmin": "false",
+    "books": ["Math", "Eng", "Com", "Che"],
+
+}
